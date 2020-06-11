@@ -1,0 +1,105 @@
+@font-face {
+	font-family: 'Dancing';
+    src: url('fonts/Dancing.ttf') format('truetype');
+    src: url("fonts/Dancing.otf") format("opentype");
+}
+body{
+    background: #000000;
+    font-family: 'Dancing';
+    overflow: hidden;
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+.name{
+    margin: 20% auto 0 auto;
+    text-align: center;
+    font-size: 30px;
+    color:#ffffff;
+}
+.at{
+    display: inline-block;
+    color: #777777;
+    margin-right: 20px;
+}
+.mahdyar{
+    width:400px;
+    display: inline-block;
+}
+.dot{
+    margin-left: 10px;
+    display: inline-block;
+    color: #777777;
+
+}
+.links{
+    margin: 230px auto 0;
+    width: 400px;
+    height: 30px;
+    display: flex;
+}
+.link{
+    margin-left: 50px;
+}
+}
+@media(max-width:1024px){
+    .name{
+        margin: 300px auto 0 auto;
+    }
+    .mahdyar{
+        width:380px;
+    }
+    .links{
+        width: 400px;
+    }
+    .link{
+        margin-left: 50px;
+    }
+}
+@media (max-width:768px){
+    .name{
+        margin: 40% auto 0 auto;
+    }
+    .mahdyar{
+        width:300px;
+    }
+    .links{
+        width: 300px;
+    }
+    .link{
+        margin-left: 35px;
+    }
+}
+@media (max-width:520px){
+    .name{
+        margin: 50% auto 0 auto;
+        font-size: 15px;
+    }
+    .mahdyar{
+        width:300px;
+        }
+    .links{
+        width: 220px;
+        margin: 200px auto 0;
+    }
+    .link{
+        margin-left: 15px;
+    }
+    .at, .dot{
+        display: none;
+    }
+}
+@media (max-height:425px){
+    .name{
+        margin: 15% auto 0 auto;
+        font-size: 20px;
+    }
+    .mahdyar{
+        width:200px;
+    }
+    .links{
+        margin: 100px auto 0;
+        width: 260px;
+    }
+    .link{
+        margin-left: 25px;
+    }
+}
