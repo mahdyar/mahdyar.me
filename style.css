@@ -6,8 +6,44 @@
 body{
     background: #000000;
     font-family: 'Dancing';
-    overflow: hidden;
+    overflow-x: hidden;
+    
 }
+
+.ml10 {
+    position: relative;
+    font-weight: 900;
+    font-size: 1.5em;
+    white-space: pre-line;
+  }
+  
+  .ml10 .text-wrapper {
+    position: relative;
+    display: inline-block;
+    padding-top: 0.2em;
+    padding-right: 0.05em;
+    padding-bottom: 0.1em;
+    overflow: hidden;
+  }
+  
+  .ml10 .letter {
+    display: inline-block;
+    line-height: 1em;
+    transform-origin: 0 0;
+  }
+  .description{
+      padding-top: 30px;
+      opacity:0;
+      font-size: .7em;
+      color: #dddddd;
+  }
+  .description a{
+    color: #9b1515;
+    text-decoration: none;
+  }
+  .description a:hover{
+      border-bottom: 2px dashed #dddddd;
+  }
 @media screen and (-webkit-min-device-pixel-ratio:0) {
 .name{
     margin: 20% auto 0 auto;
@@ -39,6 +75,13 @@ body{
 .link{
     margin-left: 50px;
 }
+.notfound{
+    margin: 4% auto 0 auto;
+    text-align: center;
+    font-size: 30px;
+    color:#ffffff;
+    max-width: 700px;
+}
 }
 @media(max-width:1024px){
     .name{
@@ -52,6 +95,11 @@ body{
     }
     .link{
         margin-left: 50px;
+    }
+    .notfound{
+        margin: 200px auto 0 auto !important;
+        max-width: 700px;
+        font-size: 40px;
     }
 }
 @media (max-width:768px){
@@ -86,6 +134,11 @@ body{
     .at, .dot{
         display: none;
     }
+    .notfound{
+        margin: 50px auto 0 auto !important;
+        max-width: 250px;
+        font-size: 23px;
+    }
 }
 @media (max-height:425px){
     .name{
@@ -101,5 +154,10 @@ body{
     }
     .link{
         margin-left: 25px;
+    }
+    .notfound{
+        margin: -40px auto 0 auto !important;
+        max-width: 400px;
+        font-size: 18px;
     }
 }
