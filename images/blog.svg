@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 35 35"
+   xml:space="preserve"
+   sodipodi:docname="Blog.svg"
+   width="35"
+   height="35"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   id="metadata78"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs76" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1016"
+   id="namedview74"
+   showgrid="false"
+   inkscape:zoom="1.588"
+   inkscape:cx="-106.90077"
+   inkscape:cy="-39.307304"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style63">
+	.st0{fill:#FFFFFF;}
+</style>
+<g
+   id="g71"
+   style="fill:#dddddd;fill-opacity:1"
+   transform="matrix(0.08215962,0,0,0.08215962,-3.0399059,-3.0399059)">
+	<g
+   id="g69"
+   style="fill:#dddddd;fill-opacity:1">
+		<g
+   id="g67"
+   style="fill:#dddddd;fill-opacity:1">
+			<path
+   d="M 356.2,37 H 143.5 C 85,37 37,85 37,143.8 V 356.5 C 37,415 85,463 143.5,463 H 356.2 C 415,463 463,415 463,356.2 V 143.8 C 463,85 415,37 356.2,37 Z M 164.8,340.5 h -60.4 v -15.9 l 60.4,-60.4 z m 230.9,0 h -60.4 v -69.2 c 0,-14 2,-28.7 -8.1,-39.9 -7.7,-8.5 -19.9,-13.3 -31.2,-10.8 -14.7,3.2 -17.6,17.3 -16.7,30.3 1,14.9 0.9,29.7 0.9,44.7 v 45 H 219.8 V 250 c 0,-8 -3,-15 -8.9,-21 -5.9,-6 -12.8,-9.1 -20.8,-9.1 -8.7,0 -15.9,2.9 -21.7,8.7 l -64.1,64.1 v -85.4 l 21.4,-21.4 c 17.6,-17.6 39,-26.4 64.1,-26.4 21.7,0 40.9,6.9 57.5,20.6 16.6,-13.8 35.8,-20.6 57.5,-20.6 24.6,0 45.9,8.8 63.9,26.4 18,17.6 27,39 27,64.1 z"
+   id="path65"
+   style="fill:#dddddd;fill-opacity:1" />
+		</g>
+	</g>
+</g>
+</svg>
